@@ -1,0 +1,23 @@
+body{
+    margin: 0 0 0 0;
+    padding:0;
+    width: 100%;
+}
+
+h1, p {
+    text-align: center;
+}
+
+div.inputter{
+    margin: auto; 
+    text-align: center;
+}
+
+input{
+    width: 40%;
+}
+
+li {
+    margin-left: 45%;
+    margin-top: 15px;
+}
